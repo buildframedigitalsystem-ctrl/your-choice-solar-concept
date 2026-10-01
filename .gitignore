@@ -1,0 +1,12 @@
+# Keep JavaScript private for this concept demo
+app.js
+
+# Environment / secrets
+.env
+.env.*
+.dev.vars
+
+# Local/editor files
+.vscode/
+.DS_Store
+Thumbs.db
